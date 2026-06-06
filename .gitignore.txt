@@ -13,4 +13,6 @@ __pycache__/
 
 *.str
 
+*.txt
+
 *.xlsx

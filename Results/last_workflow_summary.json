@@ -1,0 +1,26 @@
+{
+    "target_depth_um": 0.3,
+    "measured_depth_um": 0.2599752102255183,
+    "old_height_correction_factor": 1.0,
+    "suggested_height_correction_factor": 1.1539561781285292,
+    "target_sigma_um": 2.32379000772445,
+    "measured_sigma_um": 2.07070226535971,
+    "old_sigma_correction_factor": 1.0,
+    "suggested_sigma_correction_factor": 1.1222231445817128,
+    "streamfile_result": {
+        "streamfile": "FIB1_M-6500_i-2.6e-11_H-0.3_RoC-18.str",
+        "passes": 525,
+        "estimated_time": 1719.9098175058732,
+        "roc_target": 18
+    },
+    "afm_result": {
+        "ROC_x": 16.710313760634964,
+        "ROC_y": 16.2773892673918,
+        "sigma_x": 2.0842906066226576,
+        "sigma_y": 2.057113924096762,
+        "RMSE": 8.808245274185309,
+        "Ra": 4.290194898341675,
+        "Rz": 244.04378166574827,
+        "A": -0.2599752102255183
+    }
+}
