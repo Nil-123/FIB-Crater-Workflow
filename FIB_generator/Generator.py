@@ -1,4 +1,5 @@
 # used to generate stream files with a gaussian milling pattern for FIB: FEI Helios NanoLab 400/400S/400 ML/600
+#First version created by Pawel Kulboka later improved by Nilesh Dalla
 import numpy as np
 from math import floor
 from random import shuffle
