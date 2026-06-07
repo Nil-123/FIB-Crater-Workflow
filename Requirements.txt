@@ -5,3 +5,12 @@ matplotlib
 plotly
 pillow
 seaborn
+sys
+json
+pathlib
+dataclasses
+time
+math
+random
+PIL
+datetime
