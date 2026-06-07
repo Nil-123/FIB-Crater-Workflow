@@ -44,6 +44,8 @@ Generate FIB streamfiles from desired crater parameters:
 - Beam current
 - Pixel ordering strategy
 - Height and sigma correction factors
+- Each crater is given a unique identifier that is milled along the crater.
+- Updates the streamfile database for every streamfile generation run.
 
 ### AFM Analysis
 
@@ -100,7 +102,7 @@ design = CraterDesign(
 Run workflow:
 
 ```bash
-python example-workflow.py
+python Example-workflow.py
 ```
 
 ---
